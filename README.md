@@ -59,5 +59,6 @@
 
 + compilacion por la shell:
 + 
-![image](https://github.com/user-attachments/assets/87f99509-af38-424b-95eb-c7613af1db4d)
+![image](https://github.com/user-attachments/assets/35bca316-c134-4f3d-8ccd-887a58853239)
+
 
