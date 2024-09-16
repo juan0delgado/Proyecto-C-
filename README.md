@@ -3,7 +3,7 @@
 ## integrantes:
 ### Juan David Delgado 
 ### Nicolas Martinez
-
+### Camila Ariza
 ## readme:
 + 1) Breve vistaso Codigo:
   2) Compilacion 
