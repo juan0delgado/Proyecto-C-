@@ -13,7 +13,7 @@
 + el objetovo era leer CSV, crear una regrecion lineal basica que predisca el precio de una vivienda a base del numero de habitaciones de esta.
 
   ## 1) codigo:
-
++ Link codigo replit ( https://replit.com/@juanddelgado/taller-4 ) .
 + (se suguiere revisar el PDF adjuntado al repositorio, en donde se explica con mayor detalle el codigo)
 + Para empezar el archivop original tenia una cantidad de ( 414.120 ) datos, de los cuales se veian algo asi:
 + 
