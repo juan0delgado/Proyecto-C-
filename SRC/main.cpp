@@ -75,9 +75,15 @@ regresion(arr, n);
       dividirDataset(arr, n, 0.8, entrenamiento, prueba, tam_entrenamiento, tam_prueba);
 
       // Realizar la regresión con los datos de entrenamiento
+    cout << "-------------------"<<endl;
+    cout << " REGRECION LINEAL (DATOS DE ENTRENAMIENTO )"<<endl;
+    cout << "-------------------"<<endl;
       regresion(entrenamiento, tam_entrenamiento);
 
       // Probar el modelo con los datos de prueba
+    cout << "-------------------"<<endl;
+    cout << " REGRECION LINEAL (DATOS DE PRUEBA )"<<endl;
+    cout << "-------------------"<<endl;
       probarModelo(prueba, tam_prueba);
 
       // Liberar memoria
