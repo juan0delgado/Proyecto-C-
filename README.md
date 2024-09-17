@@ -32,7 +32,8 @@
 +  Despues se utilisa regrecion_lineal.h la cual recive el arreglo dinamico creado en leer_CSV y predice el precio de una vivienda en base a el numero de havitaciones, se puede finalmente predecir el precio de una propiedad en base a numero de habitaciones.
 +  .
 
-![image](https://github.com/user-attachments/assets/d49f360a-b81b-471e-b8dd-334e474121bc)
+![image](https://github.com/user-attachments/assets/3b829fac-3e53-4a93-97e2-74e91846b0a8)
+
 
 
 
