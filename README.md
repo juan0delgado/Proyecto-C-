@@ -65,7 +65,7 @@
 
 +
 ### Resultados:
-## regrecion lineal:
+# regrecion lineal:
 
 + La siguiente imagen hace la comparativa de ecuaciones de la recta y error cuadratico medio, todas con 20.000 epocas.
 + .
