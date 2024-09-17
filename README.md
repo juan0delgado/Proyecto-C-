@@ -41,7 +41,8 @@
 ## 2) compilacion:
 + asi se ven los archivos del proyecto antes de compilar y ejecutarlo
 + 
-![image](https://github.com/user-attachments/assets/8ca282e4-5d86-4edf-a6c6-006205bdaff9)
+![image](https://github.com/user-attachments/assets/eb8a5492-ac21-4286-bb27-8ef22e73dc13)
+
 
 
 + 
