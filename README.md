@@ -29,7 +29,7 @@
 +  ![image](https://github.com/user-attachments/assets/8bd0f422-0cb9-4e9b-9b0d-84fa62581d0e)
 +  .
 +  Definiendo leer_CSV.h en main.cpp, leemos el archivo tipo CSV, (PDF explicacion paso a paso)
-+  Despues se utilisa regrecion_lineal.h la cual recive el arreglo dinamico creado en leer_CSV y predice el precio de una vivienda en base a el numero de havitaciones.
++  Despues se utilisa regrecion_lineal.h la cual recive el arreglo dinamico creado en leer_CSV y predice el precio de una vivienda en base a el numero de havitaciones, se puede finalmente predecir el precio de una propiedad en base a numero de habitaciones.
 +  .
 
 ![image](https://github.com/user-attachments/assets/d49f360a-b81b-471e-b8dd-334e474121bc)
