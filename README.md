@@ -63,8 +63,8 @@
 + 
 ![image](https://github.com/user-attachments/assets/35bca316-c134-4f3d-8ccd-887a58853239)
 
-+
-###Resultados:
+
+### Resultados:
 ## regrecion lineal:
 
 + La siguiente imagen hace la comparativa de ecuaciones de la recta y error cuadratico medio, todas con 20.000 epocas.
