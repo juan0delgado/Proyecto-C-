@@ -26,7 +26,7 @@ int main()
   // Imprime el número de líneas
   cout << "El archivo tiene " << n << " líneas." << endl;
 
-  // Aquí puedes crear arreglos dinámicos utilizando n
+  
 
 
   // Llamar a la función para llenar el arreglo
