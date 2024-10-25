@@ -7,7 +7,7 @@
 ## readme:
 + 1) Breve vistaso Codigo:
   2) Compilacion 
-
+link integracion regrecion lineal en otro proyecto de java ( https://github.com/juan0delgado/proyecto_JAVA ).
 ## explicacion:
 + el proyecto de c++ se tarataba de elaborar un codigo en c++, en conjunto de archivos.h, que lea un CSV con datos hacerca de venta de casas, departamentos, ect. con sus respectivos datos como pais, ciudad, barrio, #habitaciones, superficie total, precio metro cuadrado.
 + el objetovo era leer CSV, crear una regrecion lineal basica que predisca el precio de una vivienda a base del numero de habitaciones de esta.
